@@ -34,4 +34,5 @@ public class Camion {
 		return "Camion [immatriculation=" + immatriculation + ", dateMiseEnCirculation=" + dateMiseEnCirculation + "]";
 	}
 	//modif mk bhxcgqsklf
+	//remodif 
 }
