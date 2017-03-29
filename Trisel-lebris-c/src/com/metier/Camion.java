@@ -33,5 +33,5 @@ public class Camion {
 	public String toString() {
 		return "Camion [immatriculation=" + immatriculation + ", dateMiseEnCirculation=" + dateMiseEnCirculation + "]";
 	}
-
+	//modif
 }
